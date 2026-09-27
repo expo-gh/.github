@@ -30,9 +30,9 @@ Check out our inaugural open-source project:
 
 ## 🌟 **Join the Movement**  
 Be part of the Expo Ghana Community:  
-- **Website**: [Coming Soon]  
-- **Socials**: Follow us on [Twitter](https://twitter.com/ExpoGhana)  
-- **WhatsApp Group**: [Join Here](#)  
+- **Website**: [expoghana.vercel.app]  
+- **Socials**: Follow us on [Twitter](https://x.com/ExpoGhCommunity)  
+- **WhatsApp Group**: [Join Here](https://chat.whatsapp.com/LJ9t9g0tdZyLg4mkn0wmaP?mode=gi_t)  
 
 ---
 
